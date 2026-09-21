@@ -1,3 +1,5 @@
+> ARCHIVED 2026-09-21: built and published at https://github.com/Life696969/interrogate — the skill folder is canonical, do not edit this copy.
+
 # Skill brief: interrogate
 
 _Forged 2026-09-21 via idea-forge. Approved by Mudit._
